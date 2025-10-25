@@ -1,0 +1,5 @@
+LIBRARY ZeroedProfiler
+EXPORTS
+    DllGetClassObject PRIVATE
+    DllCanUnloadNow PRIVATE
+    AssemblyLoadHook PRIVATE
